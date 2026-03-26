@@ -1,0 +1,40 @@
+CAPGEMINI NEW JOINER ONBOARDING GUIDE
+Welcome to the team!
+
+1. DAY 1 CHECKLIST
+Your first day sets the foundation for a successful tenure at Capgemini.
+- Report to the designated office location by 9:00 AM local time.
+- Meet your assigned HR representative in the lobby to receive your welcome kit.
+- Attend the mandatory 'Welcome to Capgemini' induction session from 10:00 AM to 12:30 PM.
+- Complete all pending HR documentation and submit original educational certificates for verification.
+- Receive your temporary 7-day access badge from the security desk.
+
+2. SYSTEM ACCESS AND IT PROVISIONING
+Getting you connected is our top priority.
+- Hardware: IT will hand over your pre-configured corporate laptop (standard issue is a Lenovo ThinkPad) during the post-lunch IT session on Day 1.
+- Initial Login: Follow the instructions provided in your welcome email to log in using your 'cg-initial' generic password, and immediately reset it via the Self-Service portal.
+- Access Permissions: Standard applications (Outlook, Teams, Workday, iEvolve) are provisioned immediately. Specific project tools (AWS, Azure, SAP, JIRA) require manager approval. The standard SLA for project-specific system access is 3 business days from the date of request submission.
+
+3. INDUCTION CYCLE (WEEKS 1-2)
+Your onboarding journey extends beyond Day 1 to ensure seamless integration.
+- Week 1: Focuses on mandatory compliance training (Code of Conduct, Data Privacy, Information Security) on our iEvolve learning platform. These must be completed within the first 5 days.
+- Week 2: Role-specific functional induction. You will meet with your reporting manager to define your Key Result Areas (KRAs) for the first 90 days.
+- Buddy Program: You will be assigned a 'Buddy'—a peer from your team who will help you navigate the company culture, answer informal queries, and introduce you to key stakeholders over your first 30 days.
+
+4. iEVOLVE TRAINING PORTAL
+Continuous learning is a core value at Capgemini.
+- The iEvolve platform hosts over 10,000 courses ranging from technical certifications to soft skills.
+- As a new joiner, you are expected to complete your 'First 100 Days' learning path, which will be automatically assigned to your profile.
+- You can access iEvolve directly from your SSO dashboard using your corporate credentials.
+
+5. BACKGROUND VERIFICATION (BGV) PROCESS
+A thorough BGV is a mandatory condition of your employment.
+- Our external partner will verify your educational qualifications, previous employment history, and criminal records.
+- You must ensure all information provided during recruitment is accurate and complete.
+- The BGV process takes approximately 30-45 days. Any discrepancies found may lead to immediate termination of employment, irrespective of performance. Please cooperate with the BGV team if they request any additional documentation.
+
+6. EMPLOYEE ID CARD PROCESS
+Your permanent physical ID card serves as your primary access pass and identification.
+- Visit the security office situated on the ground floor between 2:00 PM and 4:00 PM on Day 3 to have your photograph taken.
+- The permanent ID card will be issued within 5 to 7 working days. Until then, your temporary pass must be worn visibly at all times.
+- Lost ID cards must be immediately reported to the security desk and IT helpdesk to deactivate access privileges.

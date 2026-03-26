@@ -1,0 +1,36 @@
+CAPGEMINI IT STANDARD OPERATING PROCEDURES (SOP)
+Document Version: 2.1 | Last Updated: March 2024
+
+1. SYSTEM ACCESS REQUEST PROCEDURE
+To ensure strict security compliance, all access to enterprise systems including SAP, Salesforce, and JIRA must follow a standardized approval workflow.
+- Step 1: The employee logs into the 'Access Request Portal' (ARP).
+- Step 2: Select the required system (e.g., SAP ERP, Salesforce CRM, JIRA Software).
+- Step 3: Provide a detailed business justification for the access and specify the required role/permission level.
+- Step 4: The request is automatically routed to the employee's direct reporting manager for Level 1 approval.
+- Step 5: Upon manager approval, Level 2 approval is processed by the respective System Owner.
+- Service Level Agreement (SLA): Standard access requests will be provisioned within 3 business days of final approval.
+
+2. VPN SETUP AND REMOTE ACCESS
+For secure remote work, the Capgemini Global VPN must be utilized to access internal network resources.
+- Step 1: Ensure the Cisco AnyConnect Secure Mobility Client is installed on your corporate laptop.
+- Step 2: Open the client and enter the gateway address: vpn.capgemini.com.
+- Step 3: Authenticate using your Single Sign-On (SSO) credentials and approve the Multi-Factor Authentication (MFA) prompt via the Microsoft Authenticator app on your registered mobile device.
+- Note: VPN sessions have a 12-hour maximum duration and will automatically disconnect. Split tunneling is typically disabled for security reasons; all traffic is routed through the corporate firewall.
+
+3. PASSWORD RESET PROTOCOLS
+Maintaining strong credential security is mandatory. Passwords expire every 60 days.
+- Self-Service Reset: If an employee forgets their password, they must use the 'MyPassword' self-service portal accessible from the pre-login screen or via a mobile device. Authentication requires answering 2 security questions and entering a One-Time Password (OTP) sent to the registered personal mobile number.
+- Manual Reset: If self-service is locked (after 3 failed attempts), the employee must call the IT Global Helpdesk. The helpdesk agent will verify identity using Employee ID, Date of Birth, and the reporting manager's name before issuing a temporary 24-hour password.
+
+4. LAPTOP AND HARDWARE PROVISIONING CHECKLIST
+New asset assignments or replacements must adhere to the provisioning checklist.
+- Standard hardware includes: 1 Corporate Laptop (Lenovo ThinkPad or Dell Latitude), 1 Headset, 1 Mouse, and 1 Laptop Bag.
+- Hardware life cycle is 36 months. Replacements before this period require L2 Manager approval and justification (e.g., hardware failure beyond repair).
+- Upon receiving a new device, employees must login via connected LAN in the office for the first time to sync their AD profile. The device must be encrypted using BitLocker before leaving the premises.
+
+5. INCIDENT REPORTING PROCESS
+If an employee encounters an IT issue or suspects a security breach:
+- Step 1: Open the ServiceNow IT Service Management portal.
+- Step 2: Select 'Report an Incident' and choose the appropriate category (Hardware, Software, Network, Security).
+- Step 3: Provide a detailed description, error screenshots, and steps to reproduce.
+- Security Incidents: Any suspected phishing, malware, or lost devices must be reported immediately using the P1 Red Alert hotline: 1-800-CAP-SECURE. Do not wait to log a ticket.

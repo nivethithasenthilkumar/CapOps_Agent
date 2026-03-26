@@ -1,0 +1,76 @@
+[
+  {
+    "intent": "IT_ACCESS_REQUEST",
+    "request": {
+      "session_id": "ab12-cd34",
+      "message": "I need access to SAP for the new finance project. My employee ID is CG-4821.",
+      "channel": "CHAT"
+    },
+    "response": {
+      "text": "I have submitted your access request for SAP. Reference: ACC-1A2B3D.",
+      "intent": "IT_ACCESS_REQUEST",
+      "sentiment": "neutral",
+      "action_chip": "Req ACC-1A2B3D"
+    }
+  },
+  {
+    "intent": "HR_LEAVE_QUERY",
+    "request": {
+      "session_id": "ef56-gh78",
+      "message": "What is the policy for sick leave? Also, apply for my sick leave from tomorrow for 2 days. My ID is CG-1234.",
+      "channel": "CHAT"
+    },
+    "response": {
+      "text": "Employees are granted 12 days of paid sick leave annually.\n\nI have also initiated a leave request for you: Leave Request LV-9F8E7D.",
+      "intent": "HR_LEAVE_QUERY",
+      "sentiment": "neutral",
+      "source_doc": "hr_policies.txt",
+      "action_chip": "Leave Request LV-9F8E7D"
+    }
+  },
+  {
+    "intent": "COMPLAINT",
+    "request": {
+      "session_id": "ij90-kl12",
+      "message": "This is ridiculous! I've been waiting for my laptop replacement for 3 weeks and no one is helping me! I am very angry.",
+      "channel": "CHAT"
+    },
+    "response": {
+      "text": "I apologize that I couldn't resolve your issue. I am connecting you with a human agent immediately.",
+      "intent": "COMPLAINT",
+      "sentiment": "angry",
+      "escalated": true,
+      "escalation_priority": "P1",
+      "action_chip": "Ticket INC-5B4A3C"
+    }
+  },
+  {
+    "intent": "INVOICE_STATUS",
+    "request": {
+      "session_id": "mn34-op56",
+      "message": "Can you check the status of my invoice submission from last week?",
+      "channel": "CHAT"
+    },
+    "response": {
+      "text": "All vendor invoices must be submitted centrally through the 'MyFinance' portal under the 'Accounts Payable' section. Invoices submitted without a valid PO will be auto-rejected unless they fall under the pre-approved exceptional categories.",
+      "intent": "INVOICE_STATUS",
+      "sentiment": "neutral",
+      "source_doc": "finance_faq.txt"
+    }
+  },
+  {
+    "intent": "PASSWORD_RESET",
+    "request": {
+      "session_id": "qr78-st90",
+      "message": "Mera password reset kar do please, system ka naam Workday hai. Employee ID CG-5678.",
+      "channel": "VOICE",
+      "language": "hi-IN"
+    },
+    "response": {
+      "text": "Password reset instructions for Workday have been sent to your email. Ref: RST-8X7Y6Z.",
+      "intent": "PASSWORD_RESET",
+      "sentiment": "neutral",
+      "action_chip": "Reset RST-8X7Y6Z"
+    }
+  }
+]

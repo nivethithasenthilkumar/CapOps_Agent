@@ -1,0 +1,31 @@
+CAPGEMINI HUMAN RESOURCES POLICIES
+Effective Date: January 1, 2024
+
+1. LEAVE POLICY
+Capgemini is committed to providing its employees with a healthy work-life balance. 
+- Annual Leave (Privilege Leave): Employees are entitled to 24 days of paid annual leave per calendar year. Annual leave is accrued on a monthly basis at the rate of 2 days per month. A maximum of 45 days can be carried forward to the next calendar year.
+- Sick Leave: Employees are granted 12 days of paid sick leave annually. This is intended to be used for personal illness, medical emergencies, or family care. Sick leave cannot be carried forward to the next year and cannot be encashed.
+- Maternity Leave: Female employees are eligible for 26 weeks of paid maternity leave, in accordance with the Maternity Benefit Act, applicable for the first two children.
+- Paternity Leave: Male employees are eligible for 15 days of paid paternity leave, which must be availed within 6 months of the child's birth or adoption.
+- Comp-off Policy: Employees working on weekends or recognized public holidays for critical project deliverables are eligible for compensatory time off. Comp-offs must be approved by the reporting manager in the HRMS portal and utilized within 60 days of accrual, after which they will lapse.
+
+2. WORK FROM HOME (WFH) & HYBRID POLICY
+Capgemini supports a flexible and hybrid working model tailored to client and project needs.
+- Core Requirement: Employees are expected to work from the base office location for a minimum of 3 days per week to foster collaboration, team cohesion, and spontaneous innovation.
+- The specific days in the office should be coordinated with the respective team manager to ensure adequate team presence.
+- Exceptions to the 3-day hybrid rule require VP-level approval and must be justified by severe medical or extenuating personal circumstances.
+- Employees must ensure they have a secure internet connection, power backup, and a dedicated, noise-free workspace while working remotely to adhere to strict client data privacy and security norms.
+
+3. APPRAISAL AND PERFORMANCE CYCLE
+- The mandatory performance appraisal cycle runs twice a year, concluding in April and October.
+- Mid-year reviews take place in October to assess progress against goals set at the start of the year, make necessary course corrections, and align with new business objectives.
+- Annual compensation revisions, bonuses, and promotions are finalized during the April cycle.
+- Employees are evaluated comprehensively based on project delivery, adherence to Capgemini core values, direct client feedback, and continuous learning initiatives completed on the iEvolve platform.
+
+4. ATTENDANCE AND WORKING HOURS
+- The standard working week spans Monday to Friday, constituting 45 hours a week (9 hours per day including a 1-hour lunch break). Core working hours are generally from 9:30 AM to 6:30 PM, though this may vary based on project shift requirements.
+- Employees must record their daily attendance and working hours accurately in the internal time-tracking system by the end of each week. Timesheet compliance is strictly monitored.
+- Habitual tardiness, unscheduled long absences, or unauthorized absenteeism without prior manager notification may result in disciplinary action up to and including termination of employment.
+
+5. CODE OF CONDUCT AND ETHICS
+Employees must maintain the highest standards of professional, ethical conduct at all times. Misuse of company intellectual property, hardware assets, any form of workplace harassment, or violation of client non-disclosure agreements (NDAs) will lead to immediate disciplinary procedures under the Zero Tolerance Policy.

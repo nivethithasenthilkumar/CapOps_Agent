@@ -1,0 +1,40 @@
+CAPGEMINI FINANCE FREQUENTLY ASKED QUESTIONS (FAQ)
+Effective: Financial Year 2024-2025
+
+1. INVOICE SUBMISSION PROCESS
+Q: How do I submit a vendor invoice for processing?
+A: All vendor invoices must be submitted centrally through the 'MyFinance' portal under the 'Accounts Payable' section. 
+- Ensure the invoice contains a valid Purchase Order (PO) number matching our records.
+- Invoices must clearly state the vendor's registered name, tax identification (GSTIN), and our corporate billing address.
+- Upload a clear PDF copy of the invoice. The system uses OCR to extract details, so image quality is crucial.
+- Invoices submitted without a valid PO will be auto-rejected unless they fall under the pre-approved exceptional categories (e.g., utility bills).
+
+2. EXPENSE CLAIM POLICY
+Q: What are the limits for personal expense claims and do they need approval?
+A: Employees incurring business-related expenses can file a claim via the Concur Expense Management system.
+- Standard limit: Expenses up to ₹5000 per receipt do not require prior management approval for standard categories (local travel, meals during overtime).
+- High value limits: Any expense above ₹5000, or specifically involving client entertainment, requires documented prior approval from a Director or Vice President.
+- Receipts: Original digital or scanned receipts must be attached for all claims above ₹500. Credit card statements alone are not accepted as valid receipts.
+
+3. PURCHASE ORDER (PO) APPROVAL WORKFLOW
+Q: What is the process to get a new PO approved for procurement?
+A: The PO workflow depends on the total monetary value of the requisition:
+- Up to $1,000 (or equivalent local currency): Requires only direct Reporting Manager approval.
+- $1,001 to $10,000: Requires Department Head / Delivery Manager approval.
+- $10,001 to $50,000: Requires Vice President and Regional Finance Controller approval.
+- Above $50,000: Requires Executive Committee (ExCo) and Global Procurement approval.
+SLA for PO issuance after final approval is typically 48 business hours.
+
+4. REIMBURSEMENT TIMELINES
+Q: When can I expect my approved expense claim to be paid?
+A: The global finance team processes employee reimbursements twice a month.
+- Claims approved between the 1st and 15th of the month will be credited to the employee's salary account by the 22nd of the same month.
+- Claims approved between the 16th and the end of the month will be credited by the 7th of the following month.
+- Note: Reimbursements are processed as separate direct deposits and are not clubbed with the regular monthly payroll.
+
+5. GST COMPLIANCE AND VENDOR ONBOARDING
+Q: What is required to onboard a new vendor into our finance system?
+A: Vendor onboarding is a critical compliance process to mitigate fraud and ensure tax compliance.
+- A functional sponsor must submit a 'New Vendor Request Form' detailing the business need.
+- The vendor must provide: Certificate of Incorporation, valid GST Registration Certificate (for India), recent bank account statement (redacted), and a signed Capgemini Supplier Code of Conduct.
+- The compliance team will perform due diligence, which takes 5-7 business days. No invoices can be processed before the vendor is fully active in the ERP system.

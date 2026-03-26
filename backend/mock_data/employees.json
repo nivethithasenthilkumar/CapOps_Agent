@@ -1,0 +1,102 @@
+[
+  {
+    "emp_id": "CG-4821",
+    "name": "Priya Sharma",
+    "department": "Finance",
+    "role": "Senior Analyst",
+    "manager": "Rajesh Kumar",
+    "location": "Chennai",
+    "email": "p.sharma@capgemini.com",
+    "systems_access": ["SAP", "Workday", "Outlook"]
+  },
+  {
+    "emp_id": "CG-1234",
+    "name": "Amit Patel",
+    "department": "IT",
+    "role": "System Administrator",
+    "manager": "Sunil Verma",
+    "location": "Mumbai",
+    "email": "a.patel@capgemini.com",
+    "systems_access": ["JIRA", "AWS", "Active Directory", "Outlook"]
+  },
+  {
+    "emp_id": "CG-5678",
+    "name": "Neha Gupta",
+    "department": "HR",
+    "role": "HR Manager",
+    "manager": "Meera Rao",
+    "location": "Bangalore",
+    "email": "n.gupta@capgemini.com",
+    "systems_access": ["Workday", "SuccessFactors", "Outlook"]
+  },
+  {
+    "emp_id": "CG-9012",
+    "name": "Rohan Desai",
+    "department": "Engineering",
+    "role": "Software Engineer",
+    "manager": "Vikram Singh",
+    "location": "Pune",
+    "email": "r.desai@capgemini.com",
+    "systems_access": ["GitHub", "JIRA", "AWS", "Outlook"]
+  },
+  {
+    "emp_id": "CG-3456",
+    "name": "Anjali Reddy",
+    "department": "Marketing",
+    "role": "Marketing Specialist",
+    "manager": "Kavita Nair",
+    "location": "Hyderabad",
+    "email": "a.reddy@capgemini.com",
+    "systems_access": ["Salesforce", "Marketo", "Outlook"]
+  },
+  {
+    "emp_id": "CG-7890",
+    "name": "Suresh Iyer",
+    "department": "Sales",
+    "role": "Account Executive",
+    "manager": "Ravi Menon",
+    "location": "Chennai",
+    "email": "s.iyer@capgemini.com",
+    "systems_access": ["Salesforce", "LinkedIn Sales Navigator", "Outlook"]
+  },
+  {
+    "emp_id": "CG-2345",
+    "name": "Kiran Kumar",
+    "department": "Operations",
+    "role": "Operations Analyst",
+    "manager": "Arun Prakash",
+    "location": "Gurgaon",
+    "email": "k.kumar@capgemini.com",
+    "systems_access": ["ServiceNow", "SAP", "Outlook"]
+  },
+  {
+    "emp_id": "CG-6789",
+    "name": "Pooja Joshi",
+    "department": "Finance",
+    "role": "Finance Controller",
+    "manager": "Anil Agarwal",
+    "location": "Mumbai",
+    "email": "p.joshi@capgemini.com",
+    "systems_access": ["SAP", "Oracle ERP", "Outlook"]
+  },
+  {
+    "emp_id": "CG-1357",
+    "name": "Rahul Verma",
+    "department": "Engineering",
+    "role": "Lead Architect",
+    "manager": "Deepak Sharma",
+    "location": "Bangalore",
+    "email": "r.verma@capgemini.com",
+    "systems_access": ["GitHub", "JIRA", "AWS", "Azure", "Outlook"]
+  },
+  {
+    "emp_id": "CG-2468",
+    "name": "Sneha Patil",
+    "department": "IT",
+    "role": "Helpdesk Support",
+    "manager": "Sunil Verma",
+    "location": "Pune",
+    "email": "s.patil@capgemini.com",
+    "systems_access": ["ServiceNow", "Active Directory", "Outlook"]
+  }
+]

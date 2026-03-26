@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+anthropic
+langchain
+langchain-anthropic
+chromadb
+sentence-transformers
+gtts
+python-multipart
+python-dotenv
+pydantic
+httpx
+langchain_chroma
+langchain_huggingface
